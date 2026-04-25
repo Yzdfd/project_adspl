@@ -8,5 +8,6 @@
 <body>
     <h1>HIDUP UBSI</h1>
     bsi adalah kampus 
+<p> ga masuk dulu izin pergi wkw</p>
 </body>
 </html>
