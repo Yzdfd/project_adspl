@@ -9,5 +9,12 @@
     <h1>HIDUP UBSI</h1>
     bsi adalah kampus 
 <p> ga masuk dulu izin pergi wkw</p>
+<?php
+
+$berak = "tai";
+echo  $berak;
+
+?>
+
 </body>
 </html>
